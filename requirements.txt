@@ -1,0 +1,6 @@
+streamlit
+easyocr
+pillow
+numpy
+pdf2image
+pandas
